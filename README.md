@@ -1,4 +1,4 @@
-# Antonio Barrera Mora | バレラ　モラ　アントニオ
+# Anton Barrera Mora | バレラ　モラ　アントニオ
 ---
 **Welcome to my projects repository!!**
 
