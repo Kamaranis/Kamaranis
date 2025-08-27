@@ -89,6 +89,6 @@
   <summary>View this profile in other languages / Ver este perfil en otros idiomas</summary>
   <p>
     <a href="https://gist.github.com/Kamaranis/cdb4d58fb72fc170bdadc409678bddcd/">🇪🇸 Spanish</a> | 
-    <a href="https://gist.github.com/">🇯🇵 Japanese</a>
+    <a href="https://gist.github.com/Kamaranis/e91dea8e2c977c9b869c8c44ecd7e650/">🇯🇵 Japanese</a>
   </p>
 </details>
