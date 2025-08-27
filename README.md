@@ -13,7 +13,7 @@
 
 <!-- "ABOUT ME" SECTION -->
 <p align="left">
-  I have a unique background that combines deep training in <strong>Data Science</strong> and **Engineering** with expert knowledge in **Clinical Psychology, Nutrition, and Health Sciences**. My passion is to build complex technological solutions that are not only robust and scalable but are also intrinsically informed by a scientific understanding of human behavior, cognition, and well-being.
+  I have a unique background that combines deep training in <strong>Data Science</strong> and <strong>Engineering</strong> with expert knowledge in <strong>Clinical Psychology, Nutrition, and Health Sciences</strong>. My passion is to build complex technological solutions that are not only robust and scalable but are also intrinsically informed by a scientific understanding of human behavior, cognition, and well-being.
 </p>
 <p align="left">
   My work focuses on translating complex business and health problems into structured data projects, from strategic conception (using frameworks like CRISP-DM) to the implementation of Machine Learning models and the communication of actionable insights.
